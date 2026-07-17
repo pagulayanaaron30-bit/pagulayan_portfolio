@@ -11,7 +11,7 @@ export default function About() {
             <img src={profilepic} alt="Aaron Pagulayan" className="profile-pic" />
           </div>
           <div className="about-content">
-            <h2>Hi, I'm Aaron 👋</h2>
+            <h2>Hi, I'm Aaron</h2>
             <p>
               My name is <strong style={{ color: 'var(--white)' }}>Aaron Kiel D. Pagulayan</strong>,
               an Information Technology student at{' '}
